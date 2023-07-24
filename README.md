@@ -10,6 +10,6 @@ used in sshTunnel project : [sshTunnel-ios](https://github.com/hossinasaadi/ssht
 
 
 
-spetial thanks to : [ambrop72-badvpn](https://github.com/ambrop72/badvpn)
+special thanks to : [ambrop72-badvpn](https://github.com/ambrop72/badvpn)
 
 
